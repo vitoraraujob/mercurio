@@ -67,30 +67,8 @@ const category01 = [
   },
 ]
 
-const category02 = [
-  {
-    src: 'test-b-1.mp3',
-    shortDescription: 'M2_1_FIX 0.01 JLZ',
-  },
-  {
-    src: 'test-b-2.mp3',
-    shortDescription: 'M2_2_FIX 0.02 HURTMOLD',
-  },
-  {
-    src: 'test-b-3.mp3',
-    shortDescription: 'M2_3_MUT 0.01 RAKTA',
-  },
-  {
-    src: 'test-b-4.mp3',
-    shortDescription: 'M2_4_FIX 0.01 JLZ',
-  },
-]
-
 const playlists = [
   category01,
-  category02,
-  [...category01, ...category02],
-  category02,
 ]
 
 export default playlists
