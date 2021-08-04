@@ -45,7 +45,7 @@ const category01 = [
   },
   {
     src: 'bellanassif.mp3',
-    shortDescription: 'M-I_5_CRD 0.01 BELLA&T.NASSIF',
+    shortDescription: 'M-I_5_CRD 0.01 BELLA + T.NASSIF',
     descriptions: [
       'CRD 0.01',
       'BELLA + THIAGO NASSIF',
