@@ -1,7 +1,7 @@
 const category01 = [
   {
     src: 'jlz.mp3',
-    shortDescription: 'M2_1_FIX 0.01 JLZ',
+    shortDescription: 'M-I_1_FIX 0.01 JLZ',
     descriptions: [
       'FIX 0.01',
       'JLZ',
@@ -11,24 +11,59 @@ const category01 = [
     ],
   },
   {
-    src: 'queen.mp3',
-    shortDescription: 'M2_2_FIX 0.02 HURTMOLD',
+    src: 'hurtmold.mp3',
+    shortDescription: 'M-I_2_FIX 0.02 HURTMOLD',
+    descriptions: [
+      'FIX 0.02',
+      'HURTMOLD',
+      'M-I. LT POST-STUDIES',
+      'TOQUE N.2 REMIX',
+      'VITOR ARAÚJO',
+    ],
   },
   {
-    src: 'test-a-3.mp3',
-    shortDescription: 'M2_3_MUT 0.01 RAKTA',
+    src: 'rakta.mp3',
+    shortDescription: 'M-I_3_MUT 0.01 RAKTA',
+    descriptions: [
+      'MUT 0.01',
+      'RAKTA',
+      'M-I. LT POST-STUDIES',
+      'CANTO N.3 REMIX',
+      'VITOR ARAÚJO',
+    ],
   },
   {
-    src: 'test-a-4.mp3',
-    shortDescription: 'M2_4_FIX 0.01 JLZ',
+    src: 'alada.mp3',
+    shortDescription: 'M-I_4_MUT 0.02 ALADA',
+    descriptions: [
+      'MUT 0.02',
+      'ALADA',
+      'M-I. LT POST-STUDIES',
+      'CANTO N.3 REMIX',
+      'VITOR ARAÚJO',
+    ],
   },
   {
-    src: 'test-a-5.mp3',
-    shortDescription: 'M2_5_FIX 0.02 HURTMOLD',
+    src: 'bellanassif.mp3',
+    shortDescription: 'M-I_5_CRD 0.01 BELLA&T.NASSIF',
+    descriptions: [
+      'CRD 0.01',
+      'BELLA + THIAGO NASSIF',
+      'M-I. LT POST-STUDIES',
+      'CANTO N.1 REMIX',
+      'VITOR ARAÚJO',
+    ],
   },
   {
-    src: 'test-a-6.mp3',
-    shortDescription: 'M2_6_MUT 0.01 RAKTA',
+    src: 'djdiaki.mp3',
+    shortDescription: 'M-I_6_CRD 0.02 DJ DIAKI',
+    descriptions: [
+      'CRD 0.02',
+      'DJ DIAKI',
+      'M-I. LT POST-STUDIES',
+      'CANTO N.1 REMIX',
+      'VITOR ARAÚJO',
+    ],
   },
 ]
 
