@@ -78,7 +78,7 @@ const Player = () => {
           </div>
 
           <div className={styles['player__links']}>
-            <Link href="https://www.instagram.com/vitoraraujo.b/">
+            <Link href="https://www.molett.com.br/categorias/colabs/mltt-mercurio-vitor-araujo">
               <a target="_blank">
                 <Image
                   alt="Mercurio official store molett"
@@ -90,7 +90,7 @@ const Player = () => {
               </a>
             </Link>
 
-            <Link href="https://www.instagram.com/vitoraraujo.b/">
+            <Link href="https://linkme.bio/mercurio/">
               <a target="_blank">
                 <Image
                   alt="M FM"
@@ -102,7 +102,7 @@ const Player = () => {
               </a>
             </Link>
 
-            <Link href="https://www.instagram.com/vitoraraujo.b/">
+            <Link href="https://m-fm.bandcamp.com/">
               <a target="_blank">
                 <Image
                   alt="Bandcamp"
