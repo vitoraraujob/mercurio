@@ -103,10 +103,10 @@ const category02 = [
   },
   {
     src: 'ar.mp3',
-    shortDescription: 'M-II_A.R LUCINDO + MIAZZO',
+    shortDescription: 'M-II_A.R MIAZZO + LUCINDO',
     descriptions: [
       'A.R',
-      'LUCINDO + MIAZZO',
+      'MIAZZO + LUCINDO',
       'M-II. LT POST-STUDIES',
       'AIR REWORK',
       'VITOR ARAÚJO',
@@ -117,7 +117,7 @@ const category02 = [
 const category03 = [
    {
     src: 'djdiakiextratrack.mp3',
-    shortDescription: 'XTRA_M-I_CRD 1.02 DJ DIAKI',
+    shortDescription: 'XTRA_M-I DJ DIAKI',
     descriptions: [
       'CRD 1.02',
       'DJ DIAKI',
@@ -128,7 +128,7 @@ const category03 = [
   },
   {
     src: 'tapes.mp3',
-    shortDescription: 'XTRA_M-II_A.R TAPES LUCINDO',
+    shortDescription: 'XTRA_M-II LUCINDO',
     descriptions: [
       'A.R TAPES',
       'LUCINDO',
