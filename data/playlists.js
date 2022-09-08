@@ -67,8 +67,24 @@ const category01 = [
   },
 ]
 
+const category02 = [
+   {
+    src: 'djdiakiextratrack.mp3',
+    shortDescription: 'M-I_CRD 1.02 DJ DIAKI',
+    descriptions: [
+      'CRD 1.02',
+      'DJ DIAKI',
+      'M-I. LT POST-STUDIES',
+      'CANTO N.1 REMIX [EXTRA TRACK]',
+      'VITOR ARAÚJO',
+    ],
+  },
+]
+
+
 const playlists = [
   category01,
+  category02
 ]
 
 export default playlists
