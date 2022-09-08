@@ -111,12 +111,8 @@ const category02 = [
       'AIR REWORK',
       'VITOR ARAÚJO',
     ],
-  },
-  
-  },
-  
+  }, 
 ]
-
 
 const category03 = [
    {
@@ -130,7 +126,6 @@ const category03 = [
       'VITOR ARAÚJO',
     ],
   },
-  
   {
     src: 'tapes.mp3',
     shortDescription: 'XTRA_M-II_A.R TAPES LUCINDO',
