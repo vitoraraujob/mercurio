@@ -69,8 +69,59 @@ const category01 = [
 
 const category02 = [
    {
+    src: 'agua.mp3',
+    shortDescription: 'M-II_A.A.U.G CADU TENORIO',
+    descriptions: [
+      'A.A.U.G',
+      'CADU TENORIO',
+      'M-II. LT POST-STUDIES',
+      'WATER REWORK',
+      'VITOR ARAÚJO',
+    ],
+  },
+  {
+    src: 'terra.mp3',
+    shortDescription: 'M-II_E.A.R.R.T KIKO DINUCCI',
+    descriptions: [
+      'E.A.R.R.T',
+      'KIKO DINUCCI',
+      'M-II. LT POST-STUDIES',
+      'EARTH REWORK',
+      'VITOR ARAÚJO',
+    ],
+  },
+  {
+    src: 'fogo.mp3',
+    shortDescription: 'M-II_O.O.F.G SURMA',
+    descriptions: [
+      'O.O.F.G',
+      'SURMA',
+      'M-II. LT POST-STUDIES',
+      'FIRE REWORK',
+      'VITOR ARAÚJO',
+    ],
+  },
+  {
+    src: 'ar.mp3',
+    shortDescription: 'M-II_A.R LUCINDO + MIAZZO',
+    descriptions: [
+      'A.R',
+      'LUCINDO + MIAZZO',
+      'M-II. LT POST-STUDIES',
+      'AIR REWORK',
+      'VITOR ARAÚJO',
+    ],
+  },
+  
+  },
+  
+]
+
+
+const category03 = [
+   {
     src: 'djdiakiextratrack.mp3',
-    shortDescription: 'M-I_CRD 1.02 DJ DIAKI',
+    shortDescription: 'XTRA_M-I_CRD 1.02 DJ DIAKI',
     descriptions: [
       'CRD 1.02',
       'DJ DIAKI',
@@ -79,12 +130,27 @@ const category02 = [
       'VITOR ARAÚJO',
     ],
   },
+  
+  {
+    src: 'tapes.mp3',
+    shortDescription: 'XTRA_M-II_A.R TAPES LUCINDO',
+    descriptions: [
+      'A.R TAPES',
+      'LUCINDO',
+      'M-II. LT POST-STUDIES',
+      'AIR REWORK [ALTERNATIVE TAKE]',
+      'VITOR ARAÚJO',
+    ],
+  },
 ]
 
 
 const playlists = [
   category01,
-  category02
+  category02,
+  category03,
+  
+ 
 ]
 
 export default playlists
