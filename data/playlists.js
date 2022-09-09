@@ -70,7 +70,7 @@ const category01 = [
 const category02 = [
    {
     src: 'agua.mp3',
-    shortDescription: 'M-II_A.A.U.G CADU TENORIO',
+    shortDescription: 'M-II_A.A.U.G C.TENORIO',
     descriptions: [
       'A.A.U.G',
       'CADU TENORIO',
@@ -81,7 +81,7 @@ const category02 = [
   },
   {
     src: 'terra.mp3',
-    shortDescription: 'M-II_E.A.R.R.T KIKO DINUCCI',
+    shortDescription: 'M-II_E.A.R.R.T K.DINUCCI',
     descriptions: [
       'E.A.R.R.T',
       'KIKO DINUCCI',
@@ -120,9 +120,9 @@ const category03 = [
     shortDescription: 'XTRA_M-I DJ DIAKI',
     descriptions: [
       'CRD 1.02',
-      'DJ DIAKI',
+      'DJ DIAKI`S EXTRA TRACK',
       'M-I. LT POST-STUDIES',
-      'CANTO N.1 REMIX [EXTRA TRACK]',
+      'CANTO N.1 REMIX [ALTERNATIVE TAKE]',
       'VITOR ARAÚJO',
     ],
   },
@@ -131,7 +131,7 @@ const category03 = [
     shortDescription: 'XTRA_M-II LUCINDO',
     descriptions: [
       'A.R TAPES',
-      'LUCINDO',
+      'LUCINDO`S EXTRA TRACK',
       'M-II. LT POST-STUDIES',
       'AIR REWORK [ALTERNATIVE TAKE]',
       'VITOR ARAÚJO',
